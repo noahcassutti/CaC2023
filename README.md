@@ -18,11 +18,11 @@
 
 <h2> 🚀 &nbsp;Tech Stack</h2>
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"  width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+
           
 
 
@@ -35,8 +35,9 @@
 #### | [LinkedIn | Romina Antagli](https://www.linkedin.com/in/romina-antagli-8690b4a/) | 
 #### | [GitHub | Romina Antagli](https://github.com/RominaAnta) |
 
+#### | [LinkedIn | Noah Cassuti](https://www.linkedin.com/in/noah-a-cassutti-99160b1b5/) | 
+#### | [GitHub | Noah Cassuti](https://github.com/noahcassutti) |
+
 #### | [LinkedIn | Florencia B. Hidalgo](https://www.linkedin.com/in/hidalgoflorenciabelen) | 
 #### | [GitHub | Florencia B. Hidalgo](https://github.com/hidalgoflorencia) |
 
-#### | [LinkedIn | Noah Cassuti](https://www.linkedin.com/in/noah-a-cassutti-99160b1b5/) | 
-#### | [GitHub | Noah Cassuti](https://github.com/noahcassutti) |
