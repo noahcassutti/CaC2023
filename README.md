@@ -16,6 +16,8 @@
 
 <br>  
 
+<a href=https://akuma3d.netlify.app/templates/form2.html>Link de Pagina web AKUMA</a>
+
 <h2> 🚀 &nbsp;Tech Stack</h2>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="45" height="45"/>
